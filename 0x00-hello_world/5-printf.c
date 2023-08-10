@@ -1,10 +1,9 @@
-#include <stdio,h>
-
-/**
- * main - prints the exact words
- * Returnn: 1 when successful
+#include <stdio.h>
+/** main - prints exact line using printf
+ * Return: 0 (print)
  */
-
 int main(void)
-{printf("with proper grammar, but the outcome is a piece of art,"); return (1);}	
-	
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
+}
