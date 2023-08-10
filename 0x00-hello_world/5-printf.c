@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** main - prints exact line using printf
+/**
+ * main - prints exact line using printf
  * Return: 0 (print)
  */
 int main(void)
