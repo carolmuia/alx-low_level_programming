@@ -3,7 +3,7 @@
  * main - a function that prints 10 times the alphabet in lowercase
  * Return: 0
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int i;
 	char j;
@@ -14,5 +14,5 @@ void print_alphabet_x10(void);
 			_putchar(j);
 	}
 	_putchar('\n');
-	return (0);
 }
+	
